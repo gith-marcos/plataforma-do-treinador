@@ -28,6 +28,6 @@ editar perfil do jogador
 - Exportar relatórios em vários formatos
 <img width="1911" height="906" alt="image" src="https://github.com/user-attachments/assets/94fc193d-cb0f-47c8-be44-3d7dc8da27ea" />
 
-- Criar novos modelos de campos com táticas de treino, com formações pré definidas e com opç~qao de desenhar setas no campo
+- Criar novos modelos de campos com táticas de treino, com formações pré definidas e com opção de desenhar setas no campo
 <img width="1915" height="895" alt="image" src="https://github.com/user-attachments/assets/d7621850-39d2-4951-a44d-496d1905cced" />
 

@@ -1,5 +1,6 @@
 - Executar app.py, abrir navegador e digitar http://localhost:5000
-A plataforma do treinado funciona offline, por local host apenas em computadores por enquanto, funções:
+
+- A plataforma do treinado funciona offline, por local host apenas em computadores por enquanto, funções:
 <img width="1892" height="912" alt="image" src="https://github.com/user-attachments/assets/7694ecaf-c10e-48a7-bc3c-005d27d5e45d" />
 
 - Adicionar novo jogador/Equipe

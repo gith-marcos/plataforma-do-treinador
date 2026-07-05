@@ -6,8 +6,10 @@
 - Adicionar novo jogador/Equipe
   
 <img width="1888" height="897" alt="image" src="https://github.com/user-attachments/assets/d80ac26c-2e48-4af1-af7e-8ae555837094" />
-
-
+.
+.
+.
+.
 editar perfil do jogador
 <img width="1901" height="857" alt="image" src="https://github.com/user-attachments/assets/c562b62b-4e46-40ed-8771-132484c3d7b4" />
 <img width="1907" height="907" alt="image" src="https://github.com/user-attachments/assets/334f2b9a-2840-4cba-a0d2-b0eb27097138" />
